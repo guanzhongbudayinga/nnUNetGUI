@@ -55,7 +55,7 @@ There are 5 main functions:
    What you can do is find this path in the script and then change it to the path you wanted.  
    See code 1
 
-![Screenshot](https://sitsel-wiki.oist.jp/uploads/images/gallery/2024-12/qjCxCDbtv98ZAkAw-embedded-image-dvqduilh.png)
+![Screenshot](image1.png)
 
 (base) okwen@Intern-PC-1:~/Bucket/nnUnet_raw/Dataset003_cute$ tree
 .
