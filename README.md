@@ -56,6 +56,7 @@ There are 5 main functions:
    See code 1
 
 ![Screenshot](image1.png)
+---
 
 (base) okwen@Intern-PC-1:~/Bucket/nnUnet_raw/Dataset003_cute$ tree
 .
